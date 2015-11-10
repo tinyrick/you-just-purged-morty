@@ -1,4 +1,3 @@
-var _ = require('lodash');
 var del = require('del');
 var args = require('yargs')
   .usage('Usage: $0 -d [directory to purge] -i [interval in milliseconds]')

@@ -18,7 +18,6 @@
   "homepage": "https://github.com/tinyrick/you-just-purged-morty",
   "dependencies": {
     "del": "^2.0.2",
-    "lodash": "^3.10.1",
     "yargs": "^3.29.0"
   }
 }
